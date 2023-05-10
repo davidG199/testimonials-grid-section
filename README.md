@@ -1,3 +1,3 @@
 # Frontend Mentor - Testimonials grid section
 
-reto completado utilizando html, css, grid y flexbox, ademas tambien utilice sass
+reto completado utilizando html, css, grid, flexbox y sass!!!(primera vez usando sass)
